@@ -1,1 +1,2 @@
 this is my next file
+this is next line
